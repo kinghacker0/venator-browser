@@ -20,7 +20,18 @@ Venator Red comes pre-loaded with an extensive array of bookmarks, facilitating 
 
 These bookmarks are invaluable for cybercrime investigators and journalists aiming to delve into dark web communities while maintaining anonymity.
 
+### Windows Installation & Usage
+
+- **Download the zip file and extract it**
+- **Open extracted folder and click on Venator icon**
+
 Download Now:[Link](https://www.mediafire.com/file/1suq3opmmz43w2c/Venator+(4.0).zip/file)
+
+### Linux and Others
+
+- **Currently,  I don't have a dedicated version for Linux and other operating systems, but you can manually replace files and folders after installing LiberWolf**
+- **Download Liberwolf for your desired operating system**
+- ![LiberWolf](https://librewolf.net/)
 
 ![Bookmarks Overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*NqWSYaZ2py4MB3kxgwxTyQ.png)
 
