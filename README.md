@@ -31,7 +31,7 @@ Download Now:[Link](https://www.mediafire.com/file/1suq3opmmz43w2c/Venator+(4.0)
 
 - **Currently,  I don't have a dedicated version for Linux and other operating systems, but you can manually replace files and folders after installing LiberWolf**
 - **Download Liberwolf for your desired operating system**
-- ![LiberWolf](https://librewolf.net/)
+- [Download LiberWolf](https://librewolf.net/)
 
 ![Bookmarks Overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*NqWSYaZ2py4MB3kxgwxTyQ.png)
 
